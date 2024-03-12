@@ -10,6 +10,10 @@ La idea es utilizar conceptos de Programación Orientada a Objetos (POO), ciclos
 
 ### Programas
 
+**Java Development Kit**
+
+![Java-Logo](https://github.com/JuanEraso23/APOIII-taller01/assets/144852394/a7f3bdf9-f227-4a2c-83de-b44e7cc8fab2)
+
 **Apache Netbeans**
 
 ![nb_logo](https://github.com/JuanEraso23/APOIII/assets/144852394/c643765f-6565-4ddd-9f9b-18ffcd175577)
