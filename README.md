@@ -30,6 +30,7 @@ La idea es utilizar conceptos de Programación Orientada a Objetos (POO), ciclos
    
 ![Captura de pantalla_20240330_084158](https://github.com/JuanEraso23/APOIII-taller01/assets/144852394/5dcebd50-666d-4f56-8de1-23d844866c2f)
 
+---
 **Apache Netbeans**
 
 ![nb_logo](https://github.com/JuanEraso23/APOIII/assets/144852394/c643765f-6565-4ddd-9f9b-18ffcd175577)
