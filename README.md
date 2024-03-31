@@ -35,7 +35,7 @@ La idea es utilizar conceptos de Programación Orientada a Objetos (POO), ciclos
 ---
 **Apache Netbeans**
 
-![nb_logo](https://github.com/JuanEraso23/APOIII/assets/144852394/c643765f-6565-4ddd-9f9b-18ffcd175577)
+![1628159](https://github.com/JuanEraso23/APOIII-taller01/assets/144852394/94624eb8-3214-4c3f-a742-641f3de04365)
 
 ### Instalación
 
@@ -45,17 +45,17 @@ La idea es utilizar conceptos de Programación Orientada a Objetos (POO), ciclos
 
 2. Presiona la opción "Download".
 
-![Captura de pantalla_20240212_082631](https://github.com/JuanEraso23/APOIII/assets/144852394/cee67e70-b518-42d8-aee3-f2945c215f44)
+![Captura de pantalla_20240330_092345](https://github.com/JuanEraso23/APOIII-taller01/assets/144852394/20e903e0-0978-4deb-a91c-17af9f457ee5)
 
 3. Selecciona una de las opciones en "Installers And Packages".
    
    **(En mi caso fue "Apache-NetBeans-20r1-bin-windows-x64.exe (SHA-512, PGP ASC)")**
    
-![Captura de pantalla_20240212_083031](https://github.com/JuanEraso23/APOIII/assets/144852394/6442027d-04c9-49fd-9706-e5bbc9d23f55)
+![Captura de pantalla_20240330_092403](https://github.com/JuanEraso23/APOIII-taller01/assets/144852394/e2525e00-60f6-48c6-a367-ac799e091c12)
 
 4. Selecciona el primer link.
 
-![Captura de pantalla_20240212_083241](https://github.com/JuanEraso23/APOIII/assets/144852394/af0ae85d-bbc8-45f5-8a91-e272141244a4)
+![Captura de pantalla_20240330_092442](https://github.com/JuanEraso23/APOIII-taller01/assets/144852394/39c5dc99-c856-4a39-a79e-a2700ad4e1cf)
 
 ## Despliegue (Deployment)
 
