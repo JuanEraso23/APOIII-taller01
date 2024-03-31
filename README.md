@@ -14,6 +14,22 @@ La idea es utilizar conceptos de Programación Orientada a Objetos (POO), ciclos
 
 ![Java-Logo](https://github.com/JuanEraso23/APOIII-taller01/assets/144852394/a7f3bdf9-f227-4a2c-83de-b44e7cc8fab2)
 
+### Instalación
+
+1. Ingresa a la página oficial de Java Downloads.
+
+[anchor](https://www.oracle.com/co/java/technologies/downloads/#jdk22-windows)
+
+2. Selecciona el sistemaa operativo que posees actualmente.
+   **(En mi caso fue "Windows")**
+
+![Captura de pantalla_20240330_084158](https://github.com/JuanEraso23/APOIII-taller01/assets/144852394/5dcebd50-666d-4f56-8de1-23d844866c2f)
+
+3. Selecciona el link de uno de los instaladores en la sección "Product/file description".
+   **(En mi caso fue "x64 Installer")**
+   
+![Captura de pantalla_20240330_084158](https://github.com/JuanEraso23/APOIII-taller01/assets/144852394/5dcebd50-666d-4f56-8de1-23d844866c2f)
+
 **Apache Netbeans**
 
 ![nb_logo](https://github.com/JuanEraso23/APOIII/assets/144852394/c643765f-6565-4ddd-9f9b-18ffcd175577)
