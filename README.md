@@ -25,7 +25,7 @@ La idea es utilizar conceptos de Programación Orientada a Objetos (POO), ciclos
 
 ![Captura de pantalla_20240330_084158](https://github.com/JuanEraso23/APOIII-taller01/assets/144852394/5dcebd50-666d-4f56-8de1-23d844866c2f)
 
-3. Selecciona el link de uno de los instaladores en la sección "Product/file description".
+3. Selecciona el link de uno de los instaladores en la sección "Product/File Description".
    **(En mi caso fue "x64 Installer")**
    
 ![Captura de pantalla_20240330_084158](https://github.com/JuanEraso23/APOIII-taller01/assets/144852394/5dcebd50-666d-4f56-8de1-23d844866c2f)
