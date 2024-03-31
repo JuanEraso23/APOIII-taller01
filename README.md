@@ -20,7 +20,7 @@ La idea es utilizar conceptos de Programación Orientada a Objetos (POO), ciclos
 
 [anchor](https://www.oracle.com/co/java/technologies/downloads/#jdk22-windows)
 
-2. Selecciona el sistemaa operativo que posees actualmente.
+2. Selecciona el sistema operativo que posees actualmente.
    **(En mi caso fue "Windows")**
 
 ![Captura de pantalla_20240330_084158](https://github.com/JuanEraso23/APOIII-taller01/assets/144852394/5dcebd50-666d-4f56-8de1-23d844866c2f)
