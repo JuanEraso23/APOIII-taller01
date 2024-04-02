@@ -60,7 +60,7 @@ La idea es utilizar conceptos de Programación Orientada a Objetos (POO), ciclos
 ## Despliegue (Deployment)
 
 Taller desarrollado con el IDE Apache Netbeans a lo largo del segundo semestre, 
-cuya tematica fue impartida por el docente a cargo de la asignatura "Favian Parra" 
+cuya tematica fue impartida por el docente a cargo de la asignatura "Fabian Parra" 
 al cual se le otorga su debido agradecimiento.
 
 ## Construido con
